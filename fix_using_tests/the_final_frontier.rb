@@ -12,6 +12,9 @@ end
 
 def engage
   date = generate_star_date
+<<<<<<< HEAD
   puts state_log(date)
+=======
+>>>>>>> 8c5eb95b9945702e34fdf4c3993a92ee5846bd50
   date
 end
